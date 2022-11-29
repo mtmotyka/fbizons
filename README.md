@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Things to improve
+
+- Use some library for modal (for example react-modal) or rewrite current solution to portals. It shouldn't be handled by display: none like now
+- Use some library for checkboxes tree (for example react-checkbox-tree) or optimize current solution and make it recursive and generic for more nested levels
+- Add mobile version
+
 ## Available Scripts
 
 In the project directory, you can run:
